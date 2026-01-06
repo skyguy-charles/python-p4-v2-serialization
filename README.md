@@ -35,7 +35,7 @@ generate this dictionary for a given model class.
 
 ---
 
-## Setup
+####### Setup
 
 This lesson is a code-along, so fork and clone the repo.
 
